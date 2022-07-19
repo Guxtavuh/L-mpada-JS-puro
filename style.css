@@ -1,0 +1,70 @@
+h1{
+    background-color: rgba(44, 44, 225, 0.77);
+    color: white;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:dotted;
+    text-shadow: 0.2px 0.2px 2px purple;
+    border:solid ;
+}
+
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button, #button{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    text-decoration: none;
+    width: 100%;
+    background: rgba(44, 44, 225, 0.77);
+    color: white;
+    font-size: 12pt;
+    font-family: cursive;
+}
+
+#turnOn:hover{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 100%;
+    background: rgba(8, 8, 100, 0.77);
+    color: white;
+    font-size: 12pt;
+    font-family: cursive;
+}
+#turnOff:hover{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 100%;
+    background: rgba(8, 8, 100, 0.77);
+    color: white;
+    font-size: 12pt;
+    font-family: cursive;
+}
+#button:hover{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    width: 100%;
+    background: rgba(8, 8, 100, 0.77);
+    color: white;
+    font-size: 12pt;
+    font-family: cursive;
+}
+
+
+
+
+
